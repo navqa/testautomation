@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Demo Suite]" guice-stage="DEVELOPMENT">
+  <test name="Automation Test(failed)">
+    <classes>
+      <class name="com.testpractice.SeleniumPracticeDec11">
+        <methods>
+          <include name="VerifyFacebookPageFireFox"/>
+        </methods>
+      </class> <!-- com.testpractice.SeleniumPracticeDec11 -->
+    </classes>
+  </test> <!-- Automation Test(failed) -->
+</suite> <!-- Failed suite [Automation Demo Suite] -->
